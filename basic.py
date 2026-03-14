@@ -1,3 +1,1 @@
-#this is a basic python file
-print("Hello World")
-print("Hello World")
+#this is first mini project i want to push into git
